@@ -1,0 +1,17 @@
+{
+    "name": "json-server-deploy",
+    "version": "1.0.0",
+    "description": "JSON database para app Recruta-TI",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": [
+      "pucminas, json-server, heroku, node, REST API"
+    ],
+    "author": "Rodrigo Lobenwein",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "^0.17.0"
+    }
+  }
