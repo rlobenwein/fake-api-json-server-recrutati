@@ -2,8 +2,10 @@ const items = require("./data/items");
 const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
+const linguagens = require("./data/linguagens");
 
 module.exports = {
+  linguagens,
   items,
   tags,
   brands,
