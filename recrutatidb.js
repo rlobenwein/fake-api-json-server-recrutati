@@ -3,9 +3,9 @@ const usuarios = require("./data/usuarios");
 const projetos = require("./data/projetos");
 const certificados = require("./data/certificados");
 const linguagens = require("./data/linguagens");
-const linguagens_usuarios = require("./data/linguagens_usuarios");
+const linguagensUsuarios = require("./data/linguagensUsuarios");
 const idiomas = require("./data/idiomas");
-const idiomas_usuarios = require("./data/idiomas_usuarios");
+const idiomasUsuarios = require("./data/idiomasUsuarios");
 const mensagens = require("./data/mensagens");
 
 module.exports = {
@@ -14,8 +14,8 @@ module.exports = {
     projetos,
     certificados,
     linguagens,
-    linguagens_usuarios,
+    linguagensUsuarios,
     idiomas,
-    idiomas_usuarios,
+    idiomasUsuarios,
     mensagens,
 }
