@@ -1,4 +1,4 @@
-const data = require("./recrutatidb.js");
+const data = require("./db.js");
 
 const jsonServer = require("json-server");
 const server = jsonServer.create();
