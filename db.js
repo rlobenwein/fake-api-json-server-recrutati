@@ -3,9 +3,11 @@ const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 const linguagens = require("./data/linguagens");
+const linguagensUsuarios = require("./data/linguagensUsuarios");
 
 module.exports = {
   linguagens,
+  linguagensUsuarios,
   items,
   tags,
   brands,
