@@ -18,9 +18,5 @@
   "bugs": {
     "url": "https://github.com/rlobenwein/fake-api-json-server-recrutati/issues"
   },
-  "homepage": "https://github.com/rlobenwein/fake-api-json-server-recrutati#readme",
-  "devDependencies": {
-    "json-server": "^0.17.0",
-    "json-server-auth": "^2.1.0"
-  }
+  "homepage": "https://github.com/rlobenwein/fake-api-json-server-recrutati#readme"
 }
