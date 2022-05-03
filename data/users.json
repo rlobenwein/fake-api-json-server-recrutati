@@ -3,10 +3,10 @@
         "CodUsuario": 1,
         "NomeUsuario": "Rodrigo Lobenwein",
         "Telefone": "(31)99999-9999",
-        "E-mail": "rodrigo.lobenwein@sga.pucminas.br",
+        "email": "rodrigo.lobenwein@sga.pucminas.br",
         "Linkedin": "linkedin.com/rodrigolobenwein",
         "Github": "github.com/rlobenwein",
         "Descrição": "Estudante do curso ADS da PUCMinas",
-        "Senha":"123456"
+        "password":"123456"
     }
 ]
