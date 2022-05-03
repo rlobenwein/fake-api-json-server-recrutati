@@ -1,5 +1,5 @@
 const recrutadores = require("./data/recrutadores");
-const usuarios = require("./data/usuarios");
+const usuarios = require("./data/users");
 const projetos = require("./data/projetos");
 const certificados = require("./data/certificados");
 const linguagens = require("./data/linguagens");
