@@ -2,7 +2,7 @@
   "name": "json-server-deploy",
   "version": "1.0.0",
   "description": "Simple json database to deploy to the host of your choice",
-  "main": "./server.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
@@ -19,8 +19,8 @@
     "url": "https://github.com/rlobenwein/fake-api-json-server-recrutati/issues"
   },
   "homepage": "https://github.com/rlobenwein/fake-api-json-server-recrutati#readme",
-  "devDependencies": {
-    
+  "dependencies": {
+    "json-server": "^0.17.0",
     "json-server-auth": "^2.1.0"
   }
 }
