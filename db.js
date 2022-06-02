@@ -17,5 +17,5 @@ module.exports = {
   linguagensUsuarios,
   idiomas,
   idiomasUsuarios,
-  mensagens
+  mensagens,
 }
