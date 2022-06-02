@@ -1,4 +1,4 @@
-const data = require("./db.js");
+const data = require("./db.json");
 const jsonServer = require('json-server');
 const auth = require('json-server-auth');
 const middlewares = jsonServer.defaults();
