@@ -12,4 +12,4 @@ app.use(middlewares);
 app.use(auth);
 app.use(router);
 
-app.listen.listen(process.env.PORT || 3000);
+app.listen(process.env.PORT || 3000);
