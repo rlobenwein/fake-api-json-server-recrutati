@@ -1,38 +1,3 @@
 [
-    {
-        "CodLinguagem":1,
-        "NomeLinguagem": "CSharp"
-    },
-    {
-        "CodLinguagem":2,
-        "NomeLinguagem": "C"
-    },
-    {
-        "CodLinguagem":3,
-        "NomeLinguagem": "C++"
-    },
-    {
-        "CodLinguagem":4,
-        "NomeLinguagem": "Java"
-    },
-    {
-        "CodLinguagem":5,
-        "NomeLinguagem": "Abapi"
-    },
-    {
-        "CodLinguagem":6,
-        "NomeLinguagem": "Rust"
-    },
-    {
-        "CodLinguagem":7,
-        "NomeLinguagem": "HTML"
-    },
-    {
-        "CodLinguagem":8,
-        "NomeLinguagem": "CSS"
-    },
-    {
-        "CodLinguagem":9,
-        "NomeLinguagem": "JavaScript"
-    }
+    
 ]
