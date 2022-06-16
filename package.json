@@ -1,15 +1,15 @@
 {
   "name": "json-server-deploy",
   "version": "1.0.0",
-  "description": "Simple json database to deploy to the host of your choice",
+  "description": "JSON database para app Recruta-TI",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [
-    "ninjakodtv, json-server,heroku, node, REST API"
+    "pucminas, json-server, heroku, node, REST API"
   ],
-  "author": "Ninjakod TV Mehmet Yılmaz",
+  "author": "Rodrigo Lobenwein",
   "license": "ISC",
   "repository": {
     "type": "git",
