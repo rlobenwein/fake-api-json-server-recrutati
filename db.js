@@ -7,6 +7,7 @@ const idiomas = require("./data/idiomas");
 const mensagens = require("./data/mensagens");
 const perfis = require("./data/perfis");
 
+
 module.exports = {
   recrutadores,
   users,
